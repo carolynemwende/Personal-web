@@ -1,0 +1,360 @@
+
+
+body{
+	background-color: grey;
+	font-family: arial;
+	overflow-x: hidden;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+header{
+	height: 50px;
+	background-color: #2c3235;
+}
+header img{
+	 margin: 5px;
+
+}
+
+
+
+header a{
+		text-decoration: none;		
+		padding: 18px 20px;
+		float: right;
+		color: white;
+		font-weight: bold;
+		font-size: 13px;
+		overflow: auto;
+}
+
+.c {
+		width: 1200px;
+		margin: 0 auto;
+		min-height: 50px;
+		background-color: rgba(0,0,0,0.2);
+
+
+}
+.img{
+	float: left;
+	width: 332px;
+	height: 200px;
+	padding-right: 40px;
+	padding-bottom: 40px; 
+}
+
+p{
+	line-height: 1.5em;
+	font-size: 13px;
+
+}
+
+.cont h1 {
+	margin: 0 0 14px 0;
+	padding: 0;
+
+}
+.cont h4{
+	margin: 0 0 20px 0;
+	padding: 0;
+}
+
+
+	
+.thumbs{
+	float:left;;
+	
+
+} 
+
+
+.cont{
+	width: 1080px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 60px;
+	min-height: 500px;
+	overflow: auto;
+	}
+	
+.thumb1{
+		padding-right: 40px;
+
+}
+
+.thumb2{
+	padding-right: 40px;
+
+	
+}
+
+
+
+footer{
+	font-size: 12px;
+	text-align: center;
+	color: #444;
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+	background-color: grey;
+	font-family: arial;
+	overflow-x: hidden;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+header{
+	height: 50px;
+	background-color: orange;
+}
+
+header a{
+		text-decoration: none;		
+		padding: 20px;
+		float: right;
+		color: #000;
+		font-weight: bold;
+		font-size: 13px;
+}
+
+.carol {
+		width: 1200px;
+		margin: 0 auto;
+		min-height: 50px;
+
+
+}
+.img{
+	float: left;
+	width: 332px;
+	height: 200px;
+	padding-right: 40px;
+	padding-bottom: 40px; 
+}
+
+p{
+	line-height: 1.5em;
+
+}
+
+h1 {
+	margin: 0 0 14px 0;
+	padding: 0;
+
+}
+h4{
+	margin: 0 0 20px 0;
+	padding: 0;
+}
+
+
+.thumbs{
+	float:left;
+	width: 332px;
+	height:267px; 
+
+} 
+
+
+.cont{
+	width: 1080px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 60px;
+	min-height: 500px;
+	overflow: auto;
+}
+
+.thumb1{
+		padding-right: 40px;
+}
+
+.thumb2{
+	padding-right: 40px;
+
+
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
